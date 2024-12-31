@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello, World!");
         System.out.println("Repository yaratdim");
         System.out.println("Hello, World!");
+        System.out.println( "master2 brachina deyisdim");
     }
 }
