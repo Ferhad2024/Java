@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Repository yaratdim");
         System.out.println("Hello, Wrld!");
         System.out.println("fix branchi yaratdim");
+        System.out.println("Hello Ingrees");
     }
 }
